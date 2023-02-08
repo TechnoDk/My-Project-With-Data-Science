@@ -3,5 +3,6 @@ This project is create the data science is used.
 # Classification Model to Identify Multiple Disease Project.
 # Classification Model to Identify Employee Attrition Project.
 # Classification Model to Identify Multiple Disease Project.ipynb
+ https://colab.research.google.com/drive/1Zcbnv-KsSvXnzG_uyxd8KAz-RQ07Wkvv
 
  
